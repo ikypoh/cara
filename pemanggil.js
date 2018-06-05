@@ -22,7 +22,7 @@ if(a_to_vh==false)
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
 if(x=="1"){xxx="/2018/06/aplikasi-android-penghasil-bitcoin.html"}
-if(x=="2"){xxx="/10-aplikasi-android-terbaik.html"}
+if(x=="2"){xxx="/2018/06/10-aplikasi-android-terbaik.html"}
 if(x=="3"){xxx="/2018/06/aplikasi-google-terbaik.html"}
 if(x=="4"){xxx="/2018/06/cara-membuat-aplikasi-android.html"}
 if(x=="5"){xxx="/2018/06/website-membuat-aplikasi-android.html"}a_to_ve[i].href="https://www.caraku.review"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
